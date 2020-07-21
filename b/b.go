@@ -1,3 +1,3 @@
 package b
 
-const B = "foo"
+const B = "bar"
